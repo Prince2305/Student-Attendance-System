@@ -1,0 +1,28 @@
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\bin\Debug\attendance system.exe.config
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\bin\Debug\attendance system.exe
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\bin\Debug\attendance system.pdb
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\bin\Debug\MetroFramework.dll
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance system.csprojResolveAssemblyReference.cache
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance_system.loginfrm.resources
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance_system.Properties.Resources.resources
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance system.csproj.GenerateResource.Cache
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance system.exe
+c:\users\ashish\documents\visual studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance system.pdb
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Data.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Web.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\Google.Protobuf.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\Zstandard.Net.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\System.Buffers.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Data.xml
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\bin\Debug\MySql.Web.xml
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance_system.studentView.resources
+C:\Users\Ashish\Documents\Visual Studio 2015\Projects\attendance system\attendance system\obj\Debug\attendance_system.teacherView.resources
